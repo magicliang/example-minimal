@@ -62,6 +62,22 @@
     </dependency>
 
 
+    <!-- https://mvnrepository.com/artifact/com.zaxxer/HikariCP -->
+    <dependency>
+      <groupId>com.zaxxer</groupId>
+      <artifactId>HikariCP</artifactId>
+      <version>3.3.1</version>
+    </dependency>
+
+    <!-- https://mvnrepository.com/artifact/com.clickhouse/clickhouse-jdbc -->
+    <dependency>
+      <groupId>com.clickhouse</groupId>
+      <artifactId>clickhouse-jdbc</artifactId>
+      <version>0.3.2-patch11</version>
+    </dependency>
+
+
+
   </dependencies>
 
   <build>
